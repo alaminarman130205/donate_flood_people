@@ -48,3 +48,92 @@ li{
     background-color: rgba(116, 136, 132, 0.24);
     border: 1px solid black;
 }
+#donation-description{
+    margin: 50px;
+}
+#input-money{
+    padding: 10px 100px;
+    margin:50px;
+}
+.donation-plan-separate0{
+    height: 300px;
+    width: 300px;
+    margin: 20px;    
+    border: 1px solid green; 
+
+}
+.donation-plan-separate1{
+    height: 300px;
+    width: 300px;
+    margin: 20px;    
+    border: 1px solid green; 
+
+    
+}
+.donation-plan-separate2{
+    height: 300px;
+    width: 300px;
+    margin: 20px;   
+    border: 1px solid green; 
+    background-repeat: no-repeat;
+
+}
+.donation-plan-separate{
+    display: flex;
+    margin-left: 100px;
+}
+.icon-1{
+    width: 20%;
+    height: 20%;
+    padding-top:50px;
+    padding-left: 20px;
+}
+.final-description{
+    margin-left: 10px;
+}
+.f-f-a-f{
+    margin-left: 10px;
+}
+
+.own-design-part{
+    display: flex;
+}
+.own-design{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.svg-shape{
+    height: 140px;
+    width: 500px;
+}
+.ellipse-design{
+fill-opacity: 50%;
+stroke: purple;
+stroke-width: 2px;
+}
+.my-updates{
+    text-align: center;
+}
+#email{
+    padding: 10px;
+    margin-top: 50px;
+}
+.btn{
+    padding: 10px;
+}
+.updated-class{
+    width: 700px;
+    height: 150px;
+    background-color: green;
+    margin-left: 300px;
+}
+.footer-area{
+    height: 160px;
+    width: 100%;
+    background-color: black;
+    margin-top: 120px;
+    text-align: center;
+}
+.footer-text{
+    color: white;
+}
