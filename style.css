@@ -1,0 +1,50 @@
+body{
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.header{
+    text-align: center;
+} 
+ h1{
+    font-size: 50px;
+    color:black;
+    
+}
+p{
+    color: black;
+    padding-bottom: 20px;
+}
+a{
+    text-decoration: none;
+    padding:15px 25px;
+    background-color: brown;
+    border-radius: 12px;
+}
+.top-header{
+    width: auto;
+    height: 438px;
+    padding-top: 120px;
+    background-image: url(images/donation12.png);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.donation-info-div{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-size:30px;
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:20px;
+}
+.donation-money-list{
+    text-align: center;
+}
+#default-clicked-money{
+    background-color: rgba(116, 136, 132, 0.24);
+    border: 1px solid black;
+}
