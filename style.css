@@ -8,17 +8,17 @@ body{
 } 
  h1{
     font-size: 50px;
-    color:rgb(113, 116, 124);
+    color:red;
     
 }
 p{
-    color: rgb(11, 25, 216);
+    color: rgb(73, 76, 128);
     padding-bottom: 20px;
 }
 a{
     text-decoration: none;
     padding:15px 25px;
-    background-color: rgba(245, 11, 11, 0.61);
+    background-color: rgba(26, 24, 24, 0.61);
     border-radius: 12px;
 }
 .top-header{
